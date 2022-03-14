@@ -1,0 +1,10 @@
+./drivers
+drivers/
+
+
+./venv
+venv/
+
+geckodriver.log
+
+sel_main.py
