@@ -6,8 +6,8 @@ from instapy import smart_run
 
 username = ''
 password = ''
-session = InstaPy(username="mkenyadaima.co.ke", 
-                password="Mkenyadaima@2022", 
+session = InstaPy(username="", 
+                password="", 
                 headless_browser = False)
 
 
